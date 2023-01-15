@@ -1,7 +1,5 @@
 # UEFI in Flat Assembly - FASM
 
-CONTACT : uefidev@protonmail.com  
-  
 This code shows how to assemble the UEFI BOOTX64.EFI file in Assembly Code using FASM.
   
 NOTE : I am re-uploading this do to a few requests. Keep in mind, this is no longer being updated.  
